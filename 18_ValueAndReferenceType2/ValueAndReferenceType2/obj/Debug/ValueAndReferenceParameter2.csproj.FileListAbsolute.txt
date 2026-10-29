@@ -1,0 +1,11 @@
+F:\CSharpProjects\ValueAndReferenceType2\ValueAndReferenceType2\bin\Debug\ValueAndReferenceType2.exe.config
+F:\CSharpProjects\ValueAndReferenceType2\ValueAndReferenceType2\bin\Debug\ValueAndReferenceType2.exe
+F:\CSharpProjects\ValueAndReferenceType2\ValueAndReferenceType2\bin\Debug\ValueAndReferenceType2.pdb
+F:\CSharpProjects\ValueAndReferenceType2\ValueAndReferenceType2\obj\Debug\ValueAndReferenceType2.exe
+F:\CSharpProjects\ValueAndReferenceType2\ValueAndReferenceType2\obj\Debug\ValueAndReferenceType2.pdb
+D:\CSharpProjects\18_ValueAndReferenceType2\ValueAndReferenceType2\bin\Debug\ValueAndReferenceType2.exe.config
+D:\CSharpProjects\18_ValueAndReferenceType2\ValueAndReferenceType2\bin\Debug\ValueAndReferenceType2.exe
+D:\CSharpProjects\18_ValueAndReferenceType2\ValueAndReferenceType2\bin\Debug\ValueAndReferenceType2.pdb
+D:\CSharpProjects\18_ValueAndReferenceType2\ValueAndReferenceType2\obj\Debug\ValueAndReferenceParameter2.csprojAssemblyReference.cache
+D:\CSharpProjects\18_ValueAndReferenceType2\ValueAndReferenceType2\obj\Debug\ValueAndReferenceType2.exe
+D:\CSharpProjects\18_ValueAndReferenceType2\ValueAndReferenceType2\obj\Debug\ValueAndReferenceType2.pdb

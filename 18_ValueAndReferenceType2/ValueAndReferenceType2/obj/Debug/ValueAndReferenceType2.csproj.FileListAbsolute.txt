@@ -1,0 +1,1 @@
+F:\CSharpProjects\ValueAndReferenceType2\ValueAndReferenceType2\bin\Debug\ValueAndReferenceType2.exe.config
