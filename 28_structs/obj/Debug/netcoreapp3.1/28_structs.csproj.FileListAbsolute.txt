@@ -1,0 +1,13 @@
+D:\CSharpProjects\28_structs\bin\Debug\netcoreapp3.1\28_structs.exe
+D:\CSharpProjects\28_structs\bin\Debug\netcoreapp3.1\28_structs.deps.json
+D:\CSharpProjects\28_structs\bin\Debug\netcoreapp3.1\28_structs.runtimeconfig.json
+D:\CSharpProjects\28_structs\bin\Debug\netcoreapp3.1\28_structs.runtimeconfig.dev.json
+D:\CSharpProjects\28_structs\bin\Debug\netcoreapp3.1\28_structs.dll
+D:\CSharpProjects\28_structs\bin\Debug\netcoreapp3.1\28_structs.pdb
+D:\CSharpProjects\28_structs\obj\Debug\netcoreapp3.1\28_structs.csprojAssemblyReference.cache
+D:\CSharpProjects\28_structs\obj\Debug\netcoreapp3.1\28_structs.AssemblyInfoInputs.cache
+D:\CSharpProjects\28_structs\obj\Debug\netcoreapp3.1\28_structs.AssemblyInfo.cs
+D:\CSharpProjects\28_structs\obj\Debug\netcoreapp3.1\28_structs.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\28_structs\obj\Debug\netcoreapp3.1\28_structs.dll
+D:\CSharpProjects\28_structs\obj\Debug\netcoreapp3.1\28_structs.pdb
+D:\CSharpProjects\28_structs\obj\Debug\netcoreapp3.1\28_structs.genruntimeconfig.cache

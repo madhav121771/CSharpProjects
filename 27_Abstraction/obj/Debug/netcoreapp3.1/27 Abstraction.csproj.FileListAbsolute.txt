@@ -1,0 +1,53 @@
+D:\CSharpProjects\27 Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.exe
+D:\CSharpProjects\27 Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.deps.json
+D:\CSharpProjects\27 Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.runtimeconfig.json
+D:\CSharpProjects\27 Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.runtimeconfig.dev.json
+D:\CSharpProjects\27 Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.dll
+D:\CSharpProjects\27 Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.pdb
+D:\CSharpProjects\27 Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.csprojAssemblyReference.cache
+D:\CSharpProjects\27 Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.AssemblyInfoInputs.cache
+D:\CSharpProjects\27 Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.AssemblyInfo.cs
+D:\CSharpProjects\27 Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\27 Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.dll
+D:\CSharpProjects\27 Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.pdb
+D:\CSharpProjects\27 Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.genruntimeconfig.cache
+D:\CSharpProjects\27_Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.exe
+D:\CSharpProjects\27_Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.deps.json
+D:\CSharpProjects\27_Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.runtimeconfig.json
+D:\CSharpProjects\27_Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.runtimeconfig.dev.json
+D:\CSharpProjects\27_Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.dll
+D:\CSharpProjects\27_Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.pdb
+D:\CSharpProjects\27_Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.AssemblyInfoInputs.cache
+D:\CSharpProjects\27_Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.AssemblyInfo.cs
+D:\CSharpProjects\27_Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\27_Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.dll
+D:\CSharpProjects\27_Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.pdb
+D:\CSharpProjects\27_Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.genruntimeconfig.cache
+D:\CSharpProjects\27_Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.csproj.AssemblyReference.cache
+D:\CSharpProjects\27_Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharpProjects\27_Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.exe
+F:\CSharpProjects\27_Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.deps.json
+F:\CSharpProjects\27_Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.runtimeconfig.json
+F:\CSharpProjects\27_Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.runtimeconfig.dev.json
+F:\CSharpProjects\27_Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.dll
+F:\CSharpProjects\27_Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.pdb
+F:\CSharpProjects\27_Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharpProjects\27_Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.AssemblyInfoInputs.cache
+F:\CSharpProjects\27_Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.AssemblyInfo.cs
+F:\CSharpProjects\27_Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.csproj.CoreCompileInputs.cache
+F:\CSharpProjects\27_Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.dll
+F:\CSharpProjects\27_Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.pdb
+F:\CSharpProjects\27_Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.genruntimeconfig.cache
+G:\CSharpProjects\27_Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.exe
+G:\CSharpProjects\27_Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.deps.json
+G:\CSharpProjects\27_Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.runtimeconfig.json
+G:\CSharpProjects\27_Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.runtimeconfig.dev.json
+G:\CSharpProjects\27_Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.dll
+G:\CSharpProjects\27_Abstraction\bin\Debug\netcoreapp3.1\27 Abstraction.pdb
+G:\CSharpProjects\27_Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharpProjects\27_Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.AssemblyInfoInputs.cache
+G:\CSharpProjects\27_Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.AssemblyInfo.cs
+G:\CSharpProjects\27_Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.csproj.CoreCompileInputs.cache
+G:\CSharpProjects\27_Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.dll
+G:\CSharpProjects\27_Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.pdb
+G:\CSharpProjects\27_Abstraction\obj\Debug\netcoreapp3.1\27 Abstraction.genruntimeconfig.cache
