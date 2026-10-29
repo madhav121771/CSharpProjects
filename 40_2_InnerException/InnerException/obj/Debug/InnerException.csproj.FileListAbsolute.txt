@@ -1,0 +1,7 @@
+D:\CSharpProjects\InnerException\InnerException\bin\Debug\InnerException.exe.config
+D:\CSharpProjects\InnerException\InnerException\bin\Debug\InnerException.exe
+D:\CSharpProjects\InnerException\InnerException\bin\Debug\InnerException.pdb
+D:\CSharpProjects\InnerException\InnerException\obj\Debug\InnerException.csprojAssemblyReference.cache
+D:\CSharpProjects\InnerException\InnerException\obj\Debug\InnerException.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\InnerException\InnerException\obj\Debug\InnerException.exe
+D:\CSharpProjects\InnerException\InnerException\obj\Debug\InnerException.pdb

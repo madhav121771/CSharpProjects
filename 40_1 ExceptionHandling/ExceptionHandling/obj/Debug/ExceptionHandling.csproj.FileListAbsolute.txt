@@ -1,0 +1,14 @@
+D:\CSharpProjects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+D:\CSharpProjects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+D:\CSharpProjects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+D:\CSharpProjects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
+D:\CSharpProjects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+D:\CSharpProjects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
+F:\CSharpProjects\40_1 ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+F:\CSharpProjects\40_1 ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+F:\CSharpProjects\40_1 ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+F:\CSharpProjects\40_1 ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+F:\CSharpProjects\40_1 ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+F:\CSharpProjects\40_1 ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+F:\CSharpProjects\40_1 ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
