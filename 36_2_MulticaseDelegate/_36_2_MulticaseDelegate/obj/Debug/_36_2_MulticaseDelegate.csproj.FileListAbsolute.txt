@@ -1,0 +1,14 @@
+D:\CSharpProjects\_36_2_MulticaseDelegate\_36_2_MulticaseDelegate\bin\Debug\_36_2_MulticaseDelegate.exe.config
+D:\CSharpProjects\_36_2_MulticaseDelegate\_36_2_MulticaseDelegate\bin\Debug\_36_2_MulticaseDelegate.exe
+D:\CSharpProjects\_36_2_MulticaseDelegate\_36_2_MulticaseDelegate\bin\Debug\_36_2_MulticaseDelegate.pdb
+D:\CSharpProjects\_36_2_MulticaseDelegate\_36_2_MulticaseDelegate\obj\Debug\_36_2_MulticaseDelegate.csprojAssemblyReference.cache
+D:\CSharpProjects\_36_2_MulticaseDelegate\_36_2_MulticaseDelegate\obj\Debug\_36_2_MulticaseDelegate.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\_36_2_MulticaseDelegate\_36_2_MulticaseDelegate\obj\Debug\_36_2_MulticaseDelegate.exe
+D:\CSharpProjects\_36_2_MulticaseDelegate\_36_2_MulticaseDelegate\obj\Debug\_36_2_MulticaseDelegate.pdb
+F:\CSharpProjects\36_2_MulticaseDelegate\_36_2_MulticaseDelegate\bin\Debug\_36_2_MulticaseDelegate.exe.config
+F:\CSharpProjects\36_2_MulticaseDelegate\_36_2_MulticaseDelegate\bin\Debug\_36_2_MulticaseDelegate.exe
+F:\CSharpProjects\36_2_MulticaseDelegate\_36_2_MulticaseDelegate\bin\Debug\_36_2_MulticaseDelegate.pdb
+F:\CSharpProjects\36_2_MulticaseDelegate\_36_2_MulticaseDelegate\obj\Debug\_36_2_MulticaseDelegate.csproj.AssemblyReference.cache
+F:\CSharpProjects\36_2_MulticaseDelegate\_36_2_MulticaseDelegate\obj\Debug\_36_2_MulticaseDelegate.csproj.CoreCompileInputs.cache
+F:\CSharpProjects\36_2_MulticaseDelegate\_36_2_MulticaseDelegate\obj\Debug\_36_2_MulticaseDelegate.exe
+F:\CSharpProjects\36_2_MulticaseDelegate\_36_2_MulticaseDelegate\obj\Debug\_36_2_MulticaseDelegate.pdb
