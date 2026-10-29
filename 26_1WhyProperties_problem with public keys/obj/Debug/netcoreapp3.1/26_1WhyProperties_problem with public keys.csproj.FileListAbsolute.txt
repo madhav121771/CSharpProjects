@@ -1,0 +1,13 @@
+D:\CSharpProjects\26_1WhyProperties_problem with public keys\obj\Debug\netcoreapp3.1\26_1WhyProperties_problem with public keys.AssemblyInfoInputs.cache
+D:\CSharpProjects\26_1WhyProperties_problem with public keys\obj\Debug\netcoreapp3.1\26_1WhyProperties_problem with public keys.AssemblyInfo.cs
+D:\CSharpProjects\26_1WhyProperties_problem with public keys\obj\Debug\netcoreapp3.1\26_1WhyProperties_problem with public keys.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\26_1WhyProperties_problem with public keys\bin\Debug\netcoreapp3.1\26_1WhyProperties_problem with public keys.exe
+D:\CSharpProjects\26_1WhyProperties_problem with public keys\bin\Debug\netcoreapp3.1\26_1WhyProperties_problem with public keys.deps.json
+D:\CSharpProjects\26_1WhyProperties_problem with public keys\bin\Debug\netcoreapp3.1\26_1WhyProperties_problem with public keys.runtimeconfig.json
+D:\CSharpProjects\26_1WhyProperties_problem with public keys\bin\Debug\netcoreapp3.1\26_1WhyProperties_problem with public keys.runtimeconfig.dev.json
+D:\CSharpProjects\26_1WhyProperties_problem with public keys\bin\Debug\netcoreapp3.1\26_1WhyProperties_problem with public keys.dll
+D:\CSharpProjects\26_1WhyProperties_problem with public keys\bin\Debug\netcoreapp3.1\26_1WhyProperties_problem with public keys.pdb
+D:\CSharpProjects\26_1WhyProperties_problem with public keys\obj\Debug\netcoreapp3.1\26_1WhyProperties_problem with public keys.dll
+D:\CSharpProjects\26_1WhyProperties_problem with public keys\obj\Debug\netcoreapp3.1\26_1WhyProperties_problem with public keys.pdb
+D:\CSharpProjects\26_1WhyProperties_problem with public keys\obj\Debug\netcoreapp3.1\26_1WhyProperties_problem with public keys.genruntimeconfig.cache
+D:\CSharpProjects\26_1WhyProperties_problem with public keys\obj\Debug\netcoreapp3.1\26_1WhyProperties_problem with public keys.csprojAssemblyReference.cache
