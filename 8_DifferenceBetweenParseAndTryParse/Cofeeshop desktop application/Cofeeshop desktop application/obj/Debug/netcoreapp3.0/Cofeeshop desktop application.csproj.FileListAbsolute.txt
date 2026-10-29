@@ -1,0 +1,11 @@
+C:\Users\Maddy\Desktop\Cofeeshop desktop application\Cofeeshop desktop application\bin\Debug\netcoreapp3.0\Cofeeshop desktop application.exe
+C:\Users\Maddy\Desktop\Cofeeshop desktop application\Cofeeshop desktop application\bin\Debug\netcoreapp3.0\Cofeeshop desktop application.deps.json
+C:\Users\Maddy\Desktop\Cofeeshop desktop application\Cofeeshop desktop application\bin\Debug\netcoreapp3.0\Cofeeshop desktop application.runtimeconfig.json
+C:\Users\Maddy\Desktop\Cofeeshop desktop application\Cofeeshop desktop application\bin\Debug\netcoreapp3.0\Cofeeshop desktop application.runtimeconfig.dev.json
+C:\Users\Maddy\Desktop\Cofeeshop desktop application\Cofeeshop desktop application\bin\Debug\netcoreapp3.0\Cofeeshop desktop application.dll
+C:\Users\Maddy\Desktop\Cofeeshop desktop application\Cofeeshop desktop application\bin\Debug\netcoreapp3.0\Cofeeshop desktop application.pdb
+C:\Users\Maddy\Desktop\Cofeeshop desktop application\Cofeeshop desktop application\obj\Debug\netcoreapp3.0\Cofeeshop desktop application.csprojAssemblyReference.cache
+C:\Users\Maddy\Desktop\Cofeeshop desktop application\Cofeeshop desktop application\obj\Debug\netcoreapp3.0\Cofeeshop desktop application.AssemblyInfoInputs.cache
+C:\Users\Maddy\Desktop\Cofeeshop desktop application\Cofeeshop desktop application\obj\Debug\netcoreapp3.0\Cofeeshop desktop application.AssemblyInfo.cs
+C:\Users\Maddy\Desktop\Cofeeshop desktop application\Cofeeshop desktop application\obj\Debug\netcoreapp3.0\Cofeeshop desktop application.dll
+C:\Users\Maddy\Desktop\Cofeeshop desktop application\Cofeeshop desktop application\obj\Debug\netcoreapp3.0\Cofeeshop desktop application.pdb
