@@ -1,0 +1,11 @@
+D:\CSharpProjects\MethodHiding\MethodHiding\bin\Debug\netcoreapp2.0\MethodHiding.deps.json
+D:\CSharpProjects\MethodHiding\MethodHiding\bin\Debug\netcoreapp2.0\MethodHiding.runtimeconfig.json
+D:\CSharpProjects\MethodHiding\MethodHiding\bin\Debug\netcoreapp2.0\MethodHiding.runtimeconfig.dev.json
+D:\CSharpProjects\MethodHiding\MethodHiding\bin\Debug\netcoreapp2.0\MethodHiding.dll
+D:\CSharpProjects\MethodHiding\MethodHiding\bin\Debug\netcoreapp2.0\MethodHiding.pdb
+D:\CSharpProjects\MethodHiding\MethodHiding\obj\Debug\netcoreapp2.0\MethodHiding.csprojResolveAssemblyReference.cache
+D:\CSharpProjects\MethodHiding\MethodHiding\obj\Debug\netcoreapp2.0\MethodHiding.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\MethodHiding\MethodHiding\obj\Debug\netcoreapp2.0\MethodHiding.AssemblyInfoInputs.cache
+D:\CSharpProjects\MethodHiding\MethodHiding\obj\Debug\netcoreapp2.0\MethodHiding.AssemblyInfo.cs
+D:\CSharpProjects\MethodHiding\MethodHiding\obj\Debug\netcoreapp2.0\MethodHiding.dll
+D:\CSharpProjects\MethodHiding\MethodHiding\obj\Debug\netcoreapp2.0\MethodHiding.pdb
