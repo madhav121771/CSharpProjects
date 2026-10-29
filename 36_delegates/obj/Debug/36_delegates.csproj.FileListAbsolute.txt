@@ -1,0 +1,14 @@
+C:\Users\Maddy\source\repos\36_delegates\bin\Debug\36_delegates.exe.config
+C:\Users\Maddy\source\repos\36_delegates\bin\Debug\36_delegates.exe
+C:\Users\Maddy\source\repos\36_delegates\bin\Debug\36_delegates.pdb
+C:\Users\Maddy\source\repos\36_delegates\obj\Debug\36_delegates.csprojAssemblyReference.cache
+C:\Users\Maddy\source\repos\36_delegates\obj\Debug\36_delegates.csproj.CoreCompileInputs.cache
+C:\Users\Maddy\source\repos\36_delegates\obj\Debug\36_delegates.exe
+C:\Users\Maddy\source\repos\36_delegates\obj\Debug\36_delegates.pdb
+D:\CSharpProjects\36_delegates\bin\Debug\36_delegates.exe.config
+D:\CSharpProjects\36_delegates\bin\Debug\36_delegates.exe
+D:\CSharpProjects\36_delegates\bin\Debug\36_delegates.pdb
+D:\CSharpProjects\36_delegates\obj\Debug\36_delegates.csprojAssemblyReference.cache
+D:\CSharpProjects\36_delegates\obj\Debug\36_delegates.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\36_delegates\obj\Debug\36_delegates.exe
+D:\CSharpProjects\36_delegates\obj\Debug\36_delegates.pdb
