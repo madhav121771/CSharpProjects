@@ -1,0 +1,20 @@
+D:\CSharpProjects\testing interface example\obj\Debug\testing interface example.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\testing interface example\bin\Debug\testing interface example.exe.config
+D:\CSharpProjects\testing interface example\bin\Debug\testing interface example.exe
+D:\CSharpProjects\testing interface example\bin\Debug\testing interface example.pdb
+D:\CSharpProjects\testing interface example\obj\Debug\testing interface example.exe
+D:\CSharpProjects\testing interface example\obj\Debug\testing interface example.pdb
+D:\CSharpProjects\30_interfaces\bin\Debug\testing interface example.exe.config
+D:\CSharpProjects\30_interfaces\bin\Debug\testing interface example.exe
+D:\CSharpProjects\30_interfaces\bin\Debug\testing interface example.pdb
+D:\CSharpProjects\30_interfaces\obj\Debug\testing interface example.csprojAssemblyReference.cache
+D:\CSharpProjects\30_interfaces\obj\Debug\testing interface example.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\30_interfaces\obj\Debug\testing interface example.exe
+D:\CSharpProjects\30_interfaces\obj\Debug\testing interface example.pdb
+F:\CSharpProjects\30_interfaces\bin\Debug\testing interface example.exe.config
+F:\CSharpProjects\30_interfaces\bin\Debug\testing interface example.exe
+F:\CSharpProjects\30_interfaces\bin\Debug\testing interface example.pdb
+F:\CSharpProjects\30_interfaces\obj\Debug\testing interface example.csproj.AssemblyReference.cache
+F:\CSharpProjects\30_interfaces\obj\Debug\testing interface example.csproj.CoreCompileInputs.cache
+F:\CSharpProjects\30_interfaces\obj\Debug\testing interface example.exe
+F:\CSharpProjects\30_interfaces\obj\Debug\testing interface example.pdb
