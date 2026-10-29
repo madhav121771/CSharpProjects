@@ -1,0 +1,14 @@
+D:\CSharpProjects\32_abstract classes\obj\Debug\32_abstract classes.csprojAssemblyReference.cache
+D:\CSharpProjects\32_abstract classes\obj\Debug\32_abstract classes.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\32_abstract classes\bin\Debug\32_abstract classes.exe.config
+D:\CSharpProjects\32_abstract classes\bin\Debug\32_abstract classes.exe
+D:\CSharpProjects\32_abstract classes\bin\Debug\32_abstract classes.pdb
+D:\CSharpProjects\32_abstract classes\obj\Debug\32_abstract classes.exe
+D:\CSharpProjects\32_abstract classes\obj\Debug\32_abstract classes.pdb
+F:\CSharpProjects\32_abstract classes\bin\Debug\32_abstract classes.exe.config
+F:\CSharpProjects\32_abstract classes\bin\Debug\32_abstract classes.exe
+F:\CSharpProjects\32_abstract classes\bin\Debug\32_abstract classes.pdb
+F:\CSharpProjects\32_abstract classes\obj\Debug\32_abstract classes.csproj.AssemblyReference.cache
+F:\CSharpProjects\32_abstract classes\obj\Debug\32_abstract classes.csproj.CoreCompileInputs.cache
+F:\CSharpProjects\32_abstract classes\obj\Debug\32_abstract classes.exe
+F:\CSharpProjects\32_abstract classes\obj\Debug\32_abstract classes.pdb

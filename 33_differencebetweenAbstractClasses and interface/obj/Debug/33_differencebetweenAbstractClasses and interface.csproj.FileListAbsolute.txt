@@ -1,0 +1,10 @@
+C:\Users\Maddy\source\repos\33_differencebetweenAbstractClasses and interface\bin\Debug\33_differencebetweenAbstractClasses and interface.exe.config
+C:\Users\Maddy\source\repos\33_differencebetweenAbstractClasses and interface\bin\Debug\33_differencebetweenAbstractClasses and interface.exe
+C:\Users\Maddy\source\repos\33_differencebetweenAbstractClasses and interface\bin\Debug\33_differencebetweenAbstractClasses and interface.pdb
+C:\Users\Maddy\source\repos\33_differencebetweenAbstractClasses and interface\obj\Debug\33_differencebetweenAbstractClasses and interface.csproj.CoreCompileInputs.cache
+C:\Users\Maddy\source\repos\33_differencebetweenAbstractClasses and interface\obj\Debug\33_differencebetweenAbstractClasses and interface.exe
+C:\Users\Maddy\source\repos\33_differencebetweenAbstractClasses and interface\obj\Debug\33_differencebetweenAbstractClasses and interface.pdb
+D:\CSharpProjects\33_differencebetweenAbstractClasses and interface\obj\Debug\33_differencebetweenAbstractClasses and interface.csprojAssemblyReference.cache
+D:\CSharpProjects\33_differencebetweenAbstractClasses and interface\obj\Debug\33_differencebetweenAbstractClasses and interface.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\33_differencebetweenAbstractClasses and interface\obj\Debug\33_differencebetweenAbstractClasses and interface.exe
+D:\CSharpProjects\33_differencebetweenAbstractClasses and interface\obj\Debug\33_differencebetweenAbstractClasses and interface.pdb
